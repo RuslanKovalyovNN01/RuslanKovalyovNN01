@@ -1,5 +1,13 @@
 ## Hi there, I am Ruslan Kovalyov 👋
 
+I have 1.5 years of experience in embedded systems, open to new job opportunities.
+____
+
+I'am interested in:
+  + Distributed Systems
+  + System Programming
+  + Embedded Systems
+
 <!--
 **RuslanKovalyovNN01/RuslanKovalyovNN01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
