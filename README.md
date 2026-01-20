@@ -3,7 +3,7 @@
 I have 1.5 years of experience in embedded systems, open to new job opportunities.
 ____
 
-I'am interested in:
+I'm interested in:
   + Distributed Systems
   + System Programming
   + Embedded Systems
