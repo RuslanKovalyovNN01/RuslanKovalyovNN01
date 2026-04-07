@@ -1,6 +1,6 @@
 ## Hi there, I am Ruslan Kovalyov 👋
 
-I have 2 years of experience in embedded systems, open to new job opportunities.
+Open to new job opportunities.
 ____
 
 I'm interested in:
